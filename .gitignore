@@ -1,0 +1,9 @@
+# images
+*.jpg
+*.jpeg
+*.png
+*.pgm
+*.bmp
+*.gif
+*.svg
+*.webp
